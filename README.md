@@ -1,17 +1,17 @@
-# mastravels
+
 <!DOCTYPE html>
 <html>
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
     <meta http-equiv="P3P" content="policyref='/w3c/p3p.xml'" />
-    <title>pk Travel Agency - Cheap Prices And Exceptional Services - Travelelink</title>
+    <title>UK Travel Agency - Cheap Prices And Exceptional Services - Travelelink</title>
     <meta name="description" content="Travelelink Ensure Your Travel Within Your Budget. For Reservation Call On 0207 993 8407" />
     <meta name="keywords" content="Travel Agency, Cheap Flights, Affordable Hotels, Car Rentals, Flights From London, Flights To London, Flights Fare, Airline Tickets, Cheap Travel, Online Flighs" />
     <meta name="viewport" content="width=device-width, initial-scale = 1.0, maximum-scale=1.0, user-scalable=no, minimal-ui" />
-   <meta property="og:title" content="Book flights and holidays worldwide mastravel" />
-<meta property="og:url" content="http://mastravel/" />
-<meta property="og:image" content="http://mastravel /img/bg-mainslider/01.jpg" />
+   <meta property="og:title" content="Book flights and holidays worldwide with Travelelink" />
+<meta property="og:url" content="http://www.travelelink.co.uk/" />
+<meta property="og:image" content="http://www.travelelink.co.uk/img/bg-mainslider/01.jpg" />
 <meta property="og:site_name" content="Travelelink" />
 <meta property="og:description" content="cheap flights and holidays to all over the world with the Travelelink. Online tours and travel" />	
 <meta name="SKYPE_TOOLBAR" content="SKYPE_TOOLBAR_PARSER_COMPATIBLE" />
@@ -57,8 +57,8 @@
                 <div class="container">
                     <div class="row">
                         <div class="col-lg-3 col-md-4 col-md-4 col-sm-4 col-xs-5">
-                            <a class="logo" href="http://mastravel.co.pk/">
-                                <img src="img/logo.png" alt="http://mastravels.co.pk/" title="mastravel" />
+                            <a class="logo" href="http://travelelink.co.uk/">
+                                <img src="img/logo.png" alt="http://travelelink.co.uk/" title="Travelelink" />
                             </a>
                         </div>
                         <div class="col-lg-3 hidden-sm hidden-xs hidden-md">&nbsp;</div>
@@ -72,7 +72,7 @@
                             <div class="top-user-area clearfix">
                             <a href="tel:02079938407"><img src="img/Call_Center_DI2.png" alt="call-now" class="call-us" id="cL"/></a>
                                 <div style="font-size:18px; color:#FFF;"><a class="font-size-1-no" style="font-size:18px; color:#FFF;" href="tel:02079938407">For Information & Reservation</a></div>
-                                <div style="font-size:28px; font-weight:bold; color:#FFF;"><a class="font-size-2-no" style="font-size:28px; font-weight:bold; color:#FFF;" href="tel:02079938407"><span class="font-size-3-no" style="font-size:18px; font-weight:normal;">Call On</span><span class="tol-free"> 0207 993 8407</span></a><span class="hidden-sm hidden-md hidden-lg client"><a href="https://www.masttravels.co.pk/mybooking.php" target="_blank">My Booking <small style="font-size:9px; color:#f89406;">&gt;&gt;</small></a></span></div>
+                                <div style="font-size:28px; font-weight:bold; color:#FFF;"><a class="font-size-2-no" style="font-size:28px; font-weight:bold; color:#FFF;" href="tel:02079938407"><span class="font-size-3-no" style="font-size:18px; font-weight:normal;">Call On</span><span class="tol-free"> 0207 993 8407</span></a><span class="hidden-sm hidden-md hidden-lg client"><a href="https://www.reliancetravels.co.uk/mybooking.php" target="_blank">My Booking <small style="font-size:9px; color:#f89406;">&gt;&gt;</small></a></span></div>
                             </div>
                         </div>
                     </div>
@@ -84,7 +84,7 @@
             <div class="container">
                 <div class="nav">
                     <ul class="slimmenu" id="slimmenu">
-                        <li class='active'><a href="http://mastravels.co.pk/">Home</a>
+                        <li class='active'><a href="http://travelelink.co.uk/">Home</a>
                             
                         </li>
 
@@ -124,7 +124,7 @@
                         
                      
                             <div class="customer-login hidden-md hidden-lg">
-                            <a href=/online-payments.php" target="_blank">
+                            <a href="https://www.reliancetravels.co.uk/online-payments.php" target="_blank">
                                 <h5><i class="fa fa-user box-icon-left round box-icon-sm animate-icon-top-to-bottom"></i>My Booking</h5>
                             </a>
                         </div>
